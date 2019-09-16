@@ -1,6 +1,6 @@
 function data_out=read_clim(fName) 
     
-% this is a github test # 2
+% DELETEddddd
     data = readtable(fName, ...
         'FileType','text', ...
         'Delimiter','tab');
